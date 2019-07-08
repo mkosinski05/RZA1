@@ -1,0 +1,25 @@
+<!-- GSE workspace file. Do not modify. -->
+<ImageProperties>
+<FileVersion>21</FileVersion>
+<ImageResourcePropertiesClassVersion>2</ImageResourcePropertiesClassVersion>
+<NumberOfSets>1</NumberOfSets>
+<ResourcePropertySet>
+<SetName>Default</SetName>
+</ResourcePropertySet>
+<IDManagerClassVersion>1</IDManagerClassVersion>
+<NumberOfIDs>2</NumberOfIDs>
+<IDnames>
+<ID>IMG_ROUND_BUTTON_HOVER_BLUE</ID>
+<IDContent>
+<FileName>round_button_hover_blue.png</FileName>
+<Permanent>false</Permanent>
+<ExportFormat>1</ExportFormat>
+</IDContent>
+<ID>IMG_ROUND_BUTTON_STD_GRAY</ID>
+<IDContent>
+<FileName>round_button_std_gray.png</FileName>
+<Permanent>false</Permanent>
+<ExportFormat>1</ExportFormat>
+</IDContent>
+</IDnames>
+</ImageProperties>

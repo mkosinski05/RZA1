@@ -1,0 +1,417 @@
+ERROR: CGUIResourceFileHandler::SetResourceFile: Could not open Resource file.
+INFO: No valid License Key found in GSE Root Directory (.\) or Settings path (C:\Users\mkosinsk01\AppData\Roaming\GSE\). Starting as timebombed evaluation version.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image FakeMouseCursor.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image FakeMouseCursor.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image GaugeNeedle.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image GaugeNeedle.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image Gauge.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image Gauge.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image InputFieldGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image PlaceHolder.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image PlaceHolder.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonGrayedout.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image ButtonStandard.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderNormalBG.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderNormalBG.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderNormalKnob.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderNormalKnob.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderHighlightedKnob.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderHighlightedKnob.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderPressedKnob.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image SliderPressedKnob.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image RBNotSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxNotSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedFocussed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedHighlighted.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedPressed.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedNormal.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: MyGUIResources::TryToRegisterStandardImage: Cannot load image CheckBoxSelectedGrayedOut.png from folder Resources\GuilianiResources\.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -48.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -47.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -46.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -45.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -44.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -43.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -42.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -41.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -40.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -39.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -38.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -37.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -36.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -35.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -34.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -33.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -32.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -31.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -30.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -29.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -28.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -27.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -26.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -25.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -24.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -23.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -22.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -21.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -20.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -19.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -18.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -17.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -16.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -15.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -14.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -13.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -12.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -11.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -10.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -9.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -8.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -7.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -6.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -5.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -4.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -3.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -2.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CGUIResourceManager::RequestImageResource: No path is set for image ID -1.
+CGUIResourceManager::RequestImageResource: Could not load image.
+ERROR: CFreeTypeEnv::LoadRequestedFont: Could not load font with id -2
+ERROR: CFreeTypeEnv::LoadRequestedFont: Could not load font with id -1
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBarBackground.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_h.png'.
+ERROR: CFreeTypeEnv::LoadRequestedFont: Could not load font with id 6
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBackgroundBorderSizeable.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBarBackground.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBackgroundBorderSizeable.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBarBackground.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBackgroundBorderSizeable.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBarBackground.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBackgroundBorderSizeable.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBarBackground.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBackgroundBorderSizeable.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBarBackground.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonClose.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMax_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_p.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowButtonMin_h.png'.
+ERROR: CGUIImageLoader::LoadImg: Could not open image file!
+ERROR: CGfxWrapGL::LoadImgImpl: Problem loading the image from file:
+Filename: '.\Resources\Images/Window/WindowBackgroundBorderSizeable.png'.
+ERROR: CGUILocalisationTable::LoadLocalisationFile: Could not open language file: '.\Resources\LanguageFiles/English.lng'.
+ERROR: MyGUI::Init: Could not load locale settings.
+ERROR: Failed to initialize the application.
+ERROR: An unrecoverable error has occurred. GSE will perform a clean shutdown. See the .log file for further details. 

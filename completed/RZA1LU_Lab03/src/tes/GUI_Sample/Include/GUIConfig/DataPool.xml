@@ -1,0 +1,14 @@
+<DataPool>
+<FileVersion>2</FileVersion>
+<IDofFirstEntry>1</IDofFirstEntry>
+<NumberOfEntries>1</NumberOfEntries>
+<DataPoolEntry>
+<NumberOfObservers>1</NumberOfObservers>
+<Observers>
+<ObserverObjectID>3</ObserverObjectID>
+</Observers>
+<ClassVersion>1</ClassVersion>
+<Type>0</Type>
+<PropertyValue>0</PropertyValue>
+</DataPoolEntry>
+</DataPool>

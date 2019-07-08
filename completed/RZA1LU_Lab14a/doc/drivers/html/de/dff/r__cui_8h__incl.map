@@ -1,0 +1,45 @@
+<map id="r_cui.h" name="r_cui.h">
+<area shape="rect" id="node3" href="$d9/d39/iodefine__cfg_8h.html" title="iodefine_cfg.h" alt="" coords="2771,80,2873,107"/>
+<area shape="rect" id="node36" href="$da/dbb/Renesas__RZ__A1_8h.html" title="CMSIS Cortex&#45;A9 Core Peripheral Access Layer Header File for the Renesas_RZ_A1. " alt="" coords="566,80,697,107"/>
+<area shape="rect" id="node45" href="$d0/de3/console_8h.html" title="console.h" alt="" coords="507,319,585,345"/>
+<area shape="rect" id="node49" href="$d4/d2b/mcu__board__select_8h.html" title="mcu_board_select.h" alt="" coords="666,155,805,181"/>
+<area shape="rect" id="node4" href="$d9/d0e/iodefine__typedef_8h.html" title="iodefine_typedef.h" alt="" coords="1992,319,2119,345"/>
+<area shape="rect" id="node7" href="$d6/d62/adc__iodefine_8h.html" title="adc_iodefine.h" alt="" coords="2899,155,3004,181"/>
+<area shape="rect" id="node8" href="$d5/df7/bsc__iodefine_8h.html" title="bsc_iodefine.h" alt="" coords="3028,155,3133,181"/>
+<area shape="rect" id="node9" href="$d0/d81/ceu__iodefine_8h.html" title="ceu_iodefine.h" alt="" coords="3157,155,3263,181"/>
+<area shape="rect" id="node10" href="$d0/d7f/cpg__iodefine_8h.html" title="cpg_iodefine.h" alt="" coords="3287,155,3392,181"/>
+<area shape="rect" id="node11" href="$d0/d60/dmac__iodefine_8h.html" title="dmac_iodefine.h" alt="" coords="3468,155,3584,181"/>
+<area shape="rect" id="node12" href="$d7/d76/ethavb__iodefine_8h.html" title="ethavb_iodefine.h" alt="" coords="3608,155,3729,181"/>
+<area shape="rect" id="node13" href="$d4/dba/ether__iodefine_8h.html" title="ether_iodefine.h" alt="" coords="3753,155,3867,181"/>
+<area shape="rect" id="node14" href="$d5/db4/gpio__iodefine_8h.html" title="gpio_iodefine.h" alt="" coords="3891,155,3999,181"/>
+<area shape="rect" id="node15" href="$dc/dc5/inb__iodefine_8h.html" title="inb_iodefine.h" alt="" coords="4023,155,4125,181"/>
+<area shape="rect" id="node16" href="$d4/da7/intc__iodefine_8h.html" title="intc_iodefine.h" alt="" coords="4149,155,4255,181"/>
+<area shape="rect" id="node17" href="$d3/d0a/irda__iodefine_8h.html" title="irda_iodefine.h" alt="" coords="4279,155,4384,181"/>
+<area shape="rect" id="node18" href="$d1/d37/jcu__iodefine_8h.html" title="jcu_iodefine.h" alt="" coords="4409,155,4510,181"/>
+<area shape="rect" id="node19" href="$d3/da4/l2c__iodefine_8h.html" title="l2c_iodefine.h" alt="" coords="4534,155,4635,181"/>
+<area shape="rect" id="node20" href="$d1/d66/mmc__iodefine_8h.html" title="mmc_iodefine.h" alt="" coords="4660,155,4773,181"/>
+<area shape="rect" id="node21" href="$d5/d3a/mtu2__iodefine_8h.html" title="mtu2_iodefine.h" alt="" coords="880,155,993,181"/>
+<area shape="rect" id="node22" href="$d7/d89/ostm__iodefine_8h.html" title="ostm_iodefine.h" alt="" coords="1017,155,1131,181"/>
+<area shape="rect" id="node23" href="$da/dd7/riic__iodefine_8h.html" title="riic_iodefine.h" alt="" coords="1155,155,1257,181"/>
+<area shape="rect" id="node24" href="$d7/df8/rscan0__iodefine_8h.html" title="rscan0_iodefine.h" alt="" coords="1281,155,1403,181"/>
+<area shape="rect" id="node25" href="$d2/db1/rspi__iodefine_8h.html" title="rspi_iodefine.h" alt="" coords="1428,155,1533,181"/>
+<area shape="rect" id="node26" href="$da/d83/rtc__iodefine_8h.html" title="rtc_iodefine.h" alt="" coords="1558,155,1657,181"/>
+<area shape="rect" id="node27" href="$dd/dc2/scif__iodefine_8h.html" title="scif_iodefine.h" alt="" coords="1681,155,1785,181"/>
+<area shape="rect" id="node28" href="$de/d45/scim__iodefine_8h.html" title="scim_iodefine.h" alt="" coords="1809,155,1921,181"/>
+<area shape="rect" id="node29" href="$dc/d9b/scux__iodefine_8h.html" title="scux_iodefine.h" alt="" coords="1945,155,2057,181"/>
+<area shape="rect" id="node30" href="$df/dc3/spdif__iodefine_8h.html" title="spdif_iodefine.h" alt="" coords="2081,155,2192,181"/>
+<area shape="rect" id="node31" href="$d2/d07/spibsc__iodefine_8h.html" title="spibsc_iodefine.h" alt="" coords="2217,155,2339,181"/>
+<area shape="rect" id="node32" href="$da/d7d/ssif__iodefine_8h.html" title="ssif_iodefine.h" alt="" coords="2363,155,2467,181"/>
+<area shape="rect" id="node33" href="$df/d31/usb20__iodefine_8h.html" title="usb20_iodefine.h" alt="" coords="2492,155,2611,181"/>
+<area shape="rect" id="node34" href="$d1/d20/vdc5__iodefine_8h.html" title="vdc5_iodefine.h" alt="" coords="2635,155,2745,181"/>
+<area shape="rect" id="node35" href="$d2/d7f/wdt__iodefine_8h.html" title="wdt_iodefine.h" alt="" coords="2770,155,2874,181"/>
+<area shape="rect" id="node5" href="$d9/de3/r__typedefs_8h.html" title="r_typedefs.h" alt="" coords="359,393,453,420"/>
+<area shape="rect" id="node37" href="$d7/d32/compiler__settings_8h.html" title="compiler_settings.h" alt="" coords="359,155,493,181"/>
+<area shape="rect" id="node50" href="$d6/d26/pl310_8h.html" title="Implementation of pl310 functions. " alt="" coords="527,155,591,181"/>
+<area shape="rect" id="node38" href="$d0/d93/application__cfg_8h.html" title="application_cfg.h" alt="" coords="5,319,124,345"/>
+<area shape="rect" id="node39" href="$d6/dab/r__compiler__abstraction__api_8h.html" title="r_compiler_abstraction\l_api.h" alt="" coords="225,229,379,271"/>
+<area shape="rect" id="node40" href="$df/d66/r__os__abstraction__api_8h.html" title="r_os_abstraction_api.h" alt="" coords="329,319,483,345"/>
+<area shape="rect" id="node41" href="$db/d34/r__devlink__wrapper_8h.html" title="r_devlink_wrapper.h" alt="" coords="67,237,201,263"/>
+<area shape="rect" id="node46" href="$db/de8/r__task__priority_8h.html" title="r_task_priority.h" alt="" coords="454,237,569,263"/>
+<area shape="rect" id="node42" href="$d9/d02/control_8h.html" title="control.h" alt="" coords="167,319,239,345"/>
+</map>

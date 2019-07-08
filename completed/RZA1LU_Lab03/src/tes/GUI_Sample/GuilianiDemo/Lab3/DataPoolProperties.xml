@@ -1,0 +1,21 @@
+<!-- GSE workspace file. Do not modify. -->
+<DataPoolProperties>
+<FileVersion>21</FileVersion>
+<IDManagerClassVersion>1</IDManagerClassVersion>
+<NumberOfIDs>1</NumberOfIDs>
+<IDnames>
+<ID>DATAPOOL_LED</ID>
+<IDContent>
+<Description></Description>
+<NumberOfObservers>1</NumberOfObservers>
+<Observers>
+<ObserverObjectID>AID_CHECKBOX_1</ObserverObjectID>
+</Observers>
+<InitialValue>
+<ClassVersion>1</ClassVersion>
+<Type>0</Type>
+<PropertyValue>0</PropertyValue>
+</InitialValue>
+</IDContent>
+</IDnames>
+</DataPoolProperties>
